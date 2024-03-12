@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mursa\\source\\repos\\Week2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8320E012-1CA4-467B-BC8D-5724E19364C8}|UserAgeValidation2\\UserAgeValidation2.csproj|c:\\users\\mursa\\source\\repos\\week2\\useragevalidation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8320E012-1CA4-467B-BC8D-5724E19364C8}|UserAgeValidation2\\UserAgeValidation2.csproj|solutionrelative:useragevalidation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9A7C83-EB2C-4D79-9BB6-7379463B3EEA}|UserAgeValidation\\UserAgeValidation.csproj|c:\\users\\mursa\\source\\repos\\week2\\useragevalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9A7C83-EB2C-4D79-9BB6-7379463B3EEA}|UserAgeValidation\\UserAgeValidation.csproj|solutionrelative:useragevalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8E7DF-ACE4-41F3-9241-77DA19B886DA}|Week2\\Week2.csproj|c:\\users\\mursa\\source\\repos\\week2\\week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB8E7DF-ACE4-41F3-9241-77DA19B886DA}|Week2\\Week2.csproj|solutionrelative:week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Week2\\UserAgeValidation2\\Program.cs",
+              "RelativeDocumentMoniker": "UserAgeValidation2\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Week2\\UserAgeValidation2\\Program.cs",
+              "RelativeToolTip": "UserAgeValidation2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:28:11.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Week2\\UserAgeValidation\\Program.cs",
+              "RelativeDocumentMoniker": "UserAgeValidation\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Week2\\UserAgeValidation\\Program.cs",
+              "RelativeToolTip": "UserAgeValidation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:02:48.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Week2\\Week2\\Program.cs",
+              "RelativeDocumentMoniker": "Week2\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Week2\\Week2\\Program.cs",
+              "RelativeToolTip": "Week2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:59:51.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

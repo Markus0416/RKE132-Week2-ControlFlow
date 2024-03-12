@@ -1,0 +1,14 @@
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\obj\Debug\net8.0\UserAgeValidation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\obj\Debug\net8.0\UserAgeValidation2.AssemblyInfoInputs.cache
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\obj\Debug\net8.0\UserAgeValidation2.AssemblyInfo.cs
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\obj\Debug\net8.0\UserAgeValidation2.csproj.CoreCompileInputs.cache
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\bin\Debug\net8.0\UserAgeValidation2.exe
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\bin\Debug\net8.0\UserAgeValidation2.deps.json
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\bin\Debug\net8.0\UserAgeValidation2.runtimeconfig.json
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\bin\Debug\net8.0\UserAgeValidation2.dll
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\bin\Debug\net8.0\UserAgeValidation2.pdb
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\obj\Debug\net8.0\UserAgeValidation2.dll
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\obj\Debug\net8.0\refint\UserAgeValidation2.dll
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\obj\Debug\net8.0\UserAgeValidation2.pdb
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\obj\Debug\net8.0\UserAgeValidation2.genruntimeconfig.cache
+C:\Users\mursa\source\repos\Week2\UserAgeValidation2\obj\Debug\net8.0\ref\UserAgeValidation2.dll
